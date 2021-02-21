@@ -1,1 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T07:47:36.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" version="14.4.2" etag="ezBXltl2eOGnPLS9qO99" type="github"><diagram id="IwGMdRl-XMMmxUhOd_cV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-21T08:18:58.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="OCD-_lgQp3n_nODSds1V" version="14.4.2" type="github">
+  <diagram id="IwGMdRl-XMMmxUhOd_cV" name="Page-1">
+    <mxGraphModel dx="1386" dy="719" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C25jqHnKAn-ZWBIgcuKG-1" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;演员&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="135" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C25jqHnKAn-ZWBIgcuKG-4" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="C25jqHnKAn-ZWBIgcuKG-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="320" as="sourcePoint" />
+            <mxPoint x="160" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C25jqHnKAn-ZWBIgcuKG-5" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C25jqHnKAn-ZWBIgcuKG-8" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="C25jqHnKAn-ZWBIgcuKG-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="330" as="sourcePoint" />
+            <mxPoint x="270" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C25jqHnKAn-ZWBIgcuKG-9" value="文章管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C25jqHnKAn-ZWBIgcuKG-18" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="C25jqHnKAn-ZWBIgcuKG-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="340" as="sourcePoint" />
+            <mxPoint x="300" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C25jqHnKAn-ZWBIgcuKG-19" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;分类和标签管理&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="305" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C25jqHnKAn-ZWBIgcuKG-20" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="C25jqHnKAn-ZWBIgcuKG-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="350" as="sourcePoint" />
+            <mxPoint x="260" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C25jqHnKAn-ZWBIgcuKG-21" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;评论和留言管理&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="390" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C25jqHnKAn-ZWBIgcuKG-28" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="C25jqHnKAn-ZWBIgcuKG-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="360" as="sourcePoint" />
+            <mxPoint x="120" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C25jqHnKAn-ZWBIgcuKG-29" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;修改个人信息&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="470" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C25jqHnKAn-ZWBIgcuKG-30" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="C25jqHnKAn-ZWBIgcuKG-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="320" as="sourcePoint" />
+            <mxPoint x="230" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C25jqHnKAn-ZWBIgcuKG-31" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;友链管理&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <object label="Actor" id="C25jqHnKAn-ZWBIgcuKG-45">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+            <mxGeometry x="620" y="130" width="40" height="70" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="C25jqHnKAn-ZWBIgcuKG-46" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C25jqHnKAn-ZWBIgcuKG-47" value="博客管理员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="11.5" y="370" width="117" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
