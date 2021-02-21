@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T08:18:58.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="OCD-_lgQp3n_nODSds1V" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-21T08:19:21.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="f2iuVnsgzTqJg9zP8EB9" version="14.4.2" type="github">
   <diagram id="IwGMdRl-XMMmxUhOd_cV" name="Page-1">
     <mxGraphModel dx="1386" dy="719" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="C25jqHnKAn-ZWBIgcuKG-1" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;演员&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="135" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="C25jqHnKAn-ZWBIgcuKG-4" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="C25jqHnKAn-ZWBIgcuKG-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="320" as="sourcePoint" />
@@ -61,11 +58,6 @@
         <mxCell id="C25jqHnKAn-ZWBIgcuKG-31" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;友链管理&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="140" width="110" height="50" as="geometry" />
         </mxCell>
-        <object label="Actor" id="C25jqHnKAn-ZWBIgcuKG-45">
-          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-            <mxGeometry x="620" y="130" width="40" height="70" as="geometry" />
-          </mxCell>
-        </object>
         <mxCell id="C25jqHnKAn-ZWBIgcuKG-46" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="300" width="40" height="60" as="geometry" />
         </mxCell>
